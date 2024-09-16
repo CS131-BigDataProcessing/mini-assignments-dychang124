@@ -1,0 +1,4 @@
+      6      78     450
+The 6 tells us there are 6 lines that contain "Good luck, babe "
+The 78 tells us there are 78 words in these lines.
+The 450 tells us there are 450 bytes in these lines

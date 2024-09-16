@@ -1,0 +1,312 @@
+    1  passwd
+    2  wget www.github.com
+    3  quit
+    4  q
+    5  exit
+    6  mkdir testdir
+    7  ls
+    8  man tar
+    9  ls -lt
+   10  ls -f
+   11  ls -lf
+   12  ls -F
+   13  ls -lF
+   14  ls -latr
+   15  ls -lat
+   16  ls -lahtr
+   17  ls -lh
+   18  ls =l
+   19  ls -l
+   20  mkdir secdir
+   21  ls
+   22  cd testdir
+   23  vi new.txt
+   24  cat new.txt
+   25  cp new.txt ../secdir
+   26  ls
+   27  cd ..
+   28  cd secdir
+   29  ls
+   30  cat new
+   31  cat new.txt
+   32  cd ..
+   33  ls
+   34  vi givemepermission.txt
+   35  chmod givemepermision.txt 764
+   36  chmod 764 givemepermission.txt
+   37  ls
+   38  ls -l
+   39  exit
+   40  vi test.txt
+   41  ls -l
+   42  ls
+   43  pwd
+   44  ls
+   45  vi mytest.txt
+   46  cat mytest.txt
+   47  git clone git@github.com:CS131-BigDataProcessing/CS131_fa24_datafiles.git
+   48  git clone git@github.com:dychang124/CS131_fa24_datafiles.git
+   49  ls
+   50  git branch
+   51  ls
+   52  cd secdir
+   53  ls
+   54  cd ..
+   55  git branch dychang124-collab
+   56  ls
+   57  exit
+   58  ssh-keygen -t ed25519-sk -C "dychang124@gmail.com"
+   59  ssh-keygen -t ed25519 -C "dychang124@gmail.com"
+   60  eval "$(ssh-agent -s)"
+   61  open ~/.ssh/config
+   62  touch ~/.ssh/config
+   63  vi ~/.ssh/config
+   64  ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+   65  pbcopy < ~/.ssh/id_ed25519.pub
+   66  ls
+   67  cd index.html
+   68  open ~/.ssh
+   69  open ~/.ssh/config
+   70  vi ~/.ssh/config
+   71  eval "$(ssh-agent -s)"
+   72  open ~/.ssh/config
+   73  touch ~/.ssh/config
+   74  vi ~/.ssh/config
+   75  open ~/.ssh/config
+   76  ssh-add ~/.ssh/id_ed25519
+   77  ssh-keygen -t ed25519-sk -C "dychang124@gmail.com"
+   78   ssh-keygen -t ecdsa-sk -C "dychang124@gmail.com"
+   79  brew install openssh
+   80  sudo apt install openssh-client
+   81  sudo dnf install openssh openssh-server
+   82  ssh -V
+   83  mkdir <ChangD>_A4_Shell
+   84  mkdir <ChangD>_A4_Shell
+   85  mkdir '<ChangD>_A4_Shell'
+   86  ls
+   87  rm "<*
+   88  rm -r '<*
+   89  rm -r '<ChangD>_A4_Shell'
+   90  ls
+   91  mkdir ChangD_A4_Shell
+   92  ls
+   93  cd Chang*
+   94  touch class_practice.sh
+   95  ls
+   96  vi class*
+   97  sh class_practice.sh Daniel
+   98  ls
+   99  cd ..
+  100  ls
+  101  sudo apt upgrade openssh-client
+  102  ssh -V
+  103  ssh-add ~/.ssh/id_ed25519
+  104  eval "$(ssh-agent -s)"
+  105  ssh-add ~/.ssh/id_ed25519
+  106  ssh-keygen -t ed25519-sk -C "dychang124@gmail.com"
+  107  ls
+  108  cd Chang*
+  109  ls
+  110  vi cl*
+  111  sh class_practice.sh Daniel
+  112  vi cl*
+  113  sh class_practice.sh Daniel
+  114  vi cl*
+  115  sh class_practice.sh Daniel
+  116  vi cl*
+  117  sh class_practice.sh Daniel
+  118  vi cl*
+  119  sh class_practice.sh Daniel
+  120  vi cl*
+  121  sh class_practice.sh Daniel
+  122  vi cl*
+  123  sh class_practice.sh Daniel
+  124  vi cl*
+  125  sh class_practice.sh Daniel
+  126  vi cl*
+  127  sh class_practice.sh Daniel
+  128  cd ..
+  129  ls
+  130  cd
+  131  ls
+  132  get www.github.com
+  133  wget www.github.com
+  134  ls
+  135  mkdir -p -/.vin -/.vin/backup ./.vin/colors -/.vin/plugged
+  136  mkdir -p -/.vin -/.vin/backup -/.vin/colors -/.vin/plugged
+  137  mkdir -p ~/.vim ~/.vim/autoload ~/.vim/backup ~/.vim/colors ~/.vim/plugged
+  138  vi ~/.vimrc
+  139  cd Ch*
+  140  ls
+  141  vi cl*
+  142  cd
+  143  ssh-keygen -t ed25519-sk -C "dychang124@gmail.com"
+  144  eval "$(ssh-agent -s)"
+  145  ssh-add ~/.ssh/id_ed25519
+  146  my_variable="Hello"
+  147  echo $my_variable
+  148  $exit
+  149  $echo $my_variable
+  150  echo $my_variable
+  151  $printenv
+  152  echo $Home
+  153  vi ~/.bash_profile
+  154  vi ~/.bashrc
+  155  ll
+  156  who
+  157  date
+  158  $Home
+  159  HOME
+  160  $HOME
+  161  $USER
+  162  USER
+  163  ls
+  164  mkdir ChangD_A4
+  165  cd ChangD_A4
+  166  touch echoing.sh
+  167  $USER
+  168  vi echoi*
+  169  sh echoing.sh
+  170  vi echoi*
+  171  sh echoing.sh
+  172  vi echoi*
+  173  sh echoing.sh
+  174  vi echoi*
+  175  $USER
+  176  echo $USER
+  177  vi echoi*
+  178  sh echoing.sh
+  179  touch money.sh
+  180  vi money.sh
+  181  sh money.sh Daniel $56
+  182  vi money.sh
+  183  sh money.sh Daniel 56
+  184  cd
+  185  eval "$(ssh-agent -s)"
+  186  ssh-add ~/.ssh/id_ed25519
+  187  ssh-keygen -t ed25519-sk -C "dychang124@gmail.com"
+  188  git clone https://github.com/CS131-BigDataProcessing/a1-collab-dychang124.git
+  189  git push
+  190  cd a1*
+  191  git push
+  192  cd
+  193  ls
+  194  git remote -v
+  195  cd a1*
+  196  git remote -v
+  197  git remote set-url origin git@github.com:dchangfa24/a1-collab-dychang124.git
+  198  git push
+  199  git remote set-url origin git@github.com:dychang124/a1-collab-dychang124.git
+  200  git push
+  201  cd
+  202  cat ~/.ssh/id_ed25519.pub
+  203  ls
+  204  rm a1*
+  205  rmdir a1*
+  206  rm -r a1*
+  207  ls
+  208  git clone git@github.com:CS131-BigDataProcessing/a1-collab-dychang124.git
+  209  git clone git@github.com:CS131-BigDataProcessing/CS131_fa24_datafiles.git
+  210  $ pbcopy < ~/.ssh/id_ed25519.pub
+  211  pbcopy < ~/.ssh/id_ed25519.pub
+  212  cat ~/.ssh/id_ed25519.pub | clip
+  213  eval "$(ssh-agent -s)"
+  214  pbcopy < ~/.ssh/id_ed25519.pub
+  215  cat ~/.ssh/id_ed25519.pub
+  216  eval "$(ssh-agent -s)"
+  217  cat ~/.ssh/id_ed25519.pub
+  218  git clone git@github.com:CS131-BigDataProcessing/CS131_fa24_datafiles.git
+  219  ls
+  220  git clone git@github.com:CS131-BigDataProcessing/mini-assignments-dychang124.git
+  221  ssh-keygen -t ed25519 -C "dychang124@gmail.com"
+  222  eval "$(ssh-agent -s)"
+  223  open ~/.ssh/config
+  224  vi ~/.ssh/config
+  225  ssh-add ~/.ssh/id_ed25519
+  226  cat ~/.ssh/id_ed25519.pub
+  227  git clone git@github.com:CS131-BigDataProcessing/a1-collab-dychang124.git
+  228  cd Chang*
+  229  ls
+  230  cd ChangD_A4
+  231  ls
+  232  sh echoing.sh
+  233  sh money.sh
+  234  touch math.sh
+  235  vi math.sh
+  236  sh math.sh
+  237  vi math.sh
+  238  sh math.sh
+  239  vi math.sh
+  240  sh math.sh
+  241  vi math.sh
+  242  sh math.sh
+  243  ls
+  244  vi money.sh
+  245  vi echoing.sh
+  246  vi math.sh
+  247  sh math.sh
+  248  vi math.sh
+  249  sh math.sh
+  250  vi math.sh
+  251  sh math.sh
+  252  vi math.sh
+  253  sh math.sh
+  254  vi math.sh
+  255  sh math.sh
+  256  vi math.sh
+  257  sh math.sh
+  258  vi math.sh
+  259  sh math.sh
+  260  vi math.sh
+  261  sh math.sh
+  262  man bc
+  263  touch moremath.sh
+  264  vi more*
+  265  sh moremath.sh
+  266  vi more*
+  267  sh moremath.sh
+  268  vi more*
+  269  sh moremath.sh
+  270  git clone git@github.com:CS131-BigDataProcessing/CS131_fa24_datafiles.git
+  271  ls
+  272  cd CS131*
+  273  ls
+  274  cd Lec07
+  275  ls
+  276  vi lec)*
+  277  vi lec*
+  278  sh lec07*
+  279  sh lec07* Daniel
+  280  sh lec07* dchangfa24
+  281  vi lec*
+  282  sh lec07* dchangfa24
+  283  cd
+  284  ls
+  285  cd mini*
+  286  ls
+  287  vi a2*
+  288  egrep "wor" goodluc*
+  289  egrep "wor" goodluck.txt
+  290  ls
+  291  cd
+  292  cd CS131
+  293  cd CS131*
+  294  ls
+  295  cd Lec02
+  296  ls
+  297  egrep "wor" goodluck.txt
+  298  grep -E '\bwor' goodluck.txt
+  299  grep -E "\bwor" goodluck.txt
+  300  grep -o "\bwor" goodluck.txt
+  301  grep -o "\bwor\w*" goodluck.txt
+  302  grep -o "\w*dred\w*" goodluck.txt
+  303  grep "Good luck, babe " goodluck.txt
+  304  wc grep "Good luck, babe " goodluck.txt
+  305  wc [grep "Good luck, babe "] goodluck.txt
+  306  wc (grep "Good luck, babe ") goodluck.txt
+  307  grep "Good luck, babe " goodluck.txt|wc
+  308  ls
+  309  grep "Good luck, babe " goodluck.txt|wc>ChangD_a2_counts.txt
+  310  ls
+  311  vi Chang*
+  312  history>ChangD_a2_cmds.log
