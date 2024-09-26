@@ -1,0 +1,29 @@
+1.
+awk -F, '{print $4}' airline_stats.csv
+
+"American"
+"Alaska"
+"Jet Blue"
+"Delta"
+"United"
+"Southwest"
+2. 
+1. 
+awk -F, '$1 > 10 {print $4}' airline_stats.csv | sort |uniq
+"Alaska"
+"American"
+"Delta"
+"Jet Blue"
+"Southwest"
+"United"
+
+
+2. 
+awk -F, -v thresh="$threshold" '{ if ($1 > thresh) print $4 }' airline_stats.csv
+
+"Alaska"
+"American"
+"Delta"
+"Jet Blue"
+"Southwest"
+"United"

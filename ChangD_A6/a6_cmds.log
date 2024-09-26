@@ -1,0 +1,516 @@
+    1  passwd
+    2  wget www.github.com
+    3  quit
+    4  q
+    5  exit
+    6  mkdir testdir
+    7  ls
+    8  man tar
+    9  ls -lt
+   10  ls -f
+   11  ls -lf
+   12  ls -F
+   13  ls -lF
+   14  ls -latr
+   15  ls -lat
+   16  ls -lahtr
+   17  ls -lh
+   18  ls =l
+   19  ls -l
+   20  mkdir secdir
+   21  ls
+   22  cd testdir
+   23  vi new.txt
+   24  cat new.txt
+   25  cp new.txt ../secdir
+   26  ls
+   27  cd ..
+   28  cd secdir
+   29  ls
+   30  cat new
+   31  cat new.txt
+   32  cd ..
+   33  ls
+   34  vi givemepermission.txt
+   35  chmod givemepermision.txt 764
+   36  chmod 764 givemepermission.txt
+   37  ls
+   38  ls -l
+   39  exit
+   40  vi test.txt
+   41  ls -l
+   42  ls
+   43  pwd
+   44  ls
+   45  vi mytest.txt
+   46  cat mytest.txt
+   47  git clone git@github.com:CS131-BigDataProcessing/CS131_fa24_datafiles.git
+   48  git clone git@github.com:dychang124/CS131_fa24_datafiles.git
+   49  ls
+   50  git branch
+   51  ls
+   52  cd secdir
+   53  ls
+   54  cd ..
+   55  git branch dychang124-collab
+   56  ls
+   57  exit
+   58  ssh-keygen -t ed25519-sk -C "dychang124@gmail.com"
+   59  ssh-keygen -t ed25519 -C "dychang124@gmail.com"
+   60  eval "$(ssh-agent -s)"
+   61  open ~/.ssh/config
+   62  touch ~/.ssh/config
+   63  vi ~/.ssh/config
+   64  ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+   65  pbcopy < ~/.ssh/id_ed25519.pub
+   66  ls
+   67  cd index.html
+   68  open ~/.ssh
+   69  open ~/.ssh/config
+   70  vi ~/.ssh/config
+   71  eval "$(ssh-agent -s)"
+   72  open ~/.ssh/config
+   73  touch ~/.ssh/config
+   74  vi ~/.ssh/config
+   75  open ~/.ssh/config
+   76  ssh-add ~/.ssh/id_ed25519
+   77  ssh-keygen -t ed25519-sk -C "dychang124@gmail.com"
+   78   ssh-keygen -t ecdsa-sk -C "dychang124@gmail.com"
+   79  brew install openssh
+   80  sudo apt install openssh-client
+   81  sudo dnf install openssh openssh-server
+   82  ssh -V
+   83  mkdir <ChangD>_A4_Shell
+   84  mkdir <ChangD>_A4_Shell
+   85  mkdir '<ChangD>_A4_Shell'
+   86  ls
+   87  rm "<*
+   88  rm -r '<*
+   89  rm -r '<ChangD>_A4_Shell'
+   90  ls
+   91  mkdir ChangD_A4_Shell
+   92  ls
+   93  cd Chang*
+   94  touch class_practice.sh
+   95  ls
+   96  vi class*
+   97  sh class_practice.sh Daniel
+   98  ls
+   99  cd ..
+  100  ls
+  101  sudo apt upgrade openssh-client
+  102  ssh -V
+  103  ssh-add ~/.ssh/id_ed25519
+  104  eval "$(ssh-agent -s)"
+  105  ssh-add ~/.ssh/id_ed25519
+  106  ssh-keygen -t ed25519-sk -C "dychang124@gmail.com"
+  107  ls
+  108  cd Chang*
+  109  ls
+  110  vi cl*
+  111  sh class_practice.sh Daniel
+  112  vi cl*
+  113  sh class_practice.sh Daniel
+  114  vi cl*
+  115  sh class_practice.sh Daniel
+  116  vi cl*
+  117  sh class_practice.sh Daniel
+  118  vi cl*
+  119  sh class_practice.sh Daniel
+  120  vi cl*
+  121  sh class_practice.sh Daniel
+  122  vi cl*
+  123  sh class_practice.sh Daniel
+  124  vi cl*
+  125  sh class_practice.sh Daniel
+  126  vi cl*
+  127  sh class_practice.sh Daniel
+  128  cd ..
+  129  ls
+  130  cd
+  131  ls
+  132  get www.github.com
+  133  wget www.github.com
+  134  ls
+  135  mkdir -p -/.vin -/.vin/backup ./.vin/colors -/.vin/plugged
+  136  mkdir -p -/.vin -/.vin/backup -/.vin/colors -/.vin/plugged
+  137  mkdir -p ~/.vim ~/.vim/autoload ~/.vim/backup ~/.vim/colors ~/.vim/plugged
+  138  vi ~/.vimrc
+  139  cd Ch*
+  140  ls
+  141  vi cl*
+  142  cd
+  143  ssh-keygen -t ed25519-sk -C "dychang124@gmail.com"
+  144  eval "$(ssh-agent -s)"
+  145  ssh-add ~/.ssh/id_ed25519
+  146  my_variable="Hello"
+  147  echo $my_variable
+  148  $exit
+  149  $echo $my_variable
+  150  echo $my_variable
+  151  $printenv
+  152  echo $Home
+  153  vi ~/.bash_profile
+  154  vi ~/.bashrc
+  155  ll
+  156  who
+  157  date
+  158  $Home
+  159  HOME
+  160  $HOME
+  161  $USER
+  162  USER
+  163  ls
+  164  mkdir ChangD_A4
+  165  cd ChangD_A4
+  166  touch echoing.sh
+  167  $USER
+  168  vi echoi*
+  169  sh echoing.sh
+  170  vi echoi*
+  171  sh echoing.sh
+  172  vi echoi*
+  173  sh echoing.sh
+  174  vi echoi*
+  175  $USER
+  176  echo $USER
+  177  vi echoi*
+  178  sh echoing.sh
+  179  touch money.sh
+  180  vi money.sh
+  181  sh money.sh Daniel $56
+  182  vi money.sh
+  183  sh money.sh Daniel 56
+  184  cd
+  185  eval "$(ssh-agent -s)"
+  186  ssh-add ~/.ssh/id_ed25519
+  187  ssh-keygen -t ed25519-sk -C "dychang124@gmail.com"
+  188  git clone https://github.com/CS131-BigDataProcessing/a1-collab-dychang124.git
+  189  git push
+  190  cd a1*
+  191  git push
+  192  cd
+  193  ls
+  194  git remote -v
+  195  cd a1*
+  196  git remote -v
+  197  git remote set-url origin git@github.com:dchangfa24/a1-collab-dychang124.git
+  198  git push
+  199  git remote set-url origin git@github.com:dychang124/a1-collab-dychang124.git
+  200  git push
+  201  cd
+  202  cat ~/.ssh/id_ed25519.pub
+  203  ls
+  204  rm a1*
+  205  rmdir a1*
+  206  rm -r a1*
+  207  ls
+  208  git clone git@github.com:CS131-BigDataProcessing/a1-collab-dychang124.git
+  209  git clone git@github.com:CS131-BigDataProcessing/CS131_fa24_datafiles.git
+  210  $ pbcopy < ~/.ssh/id_ed25519.pub
+  211  pbcopy < ~/.ssh/id_ed25519.pub
+  212  cat ~/.ssh/id_ed25519.pub | clip
+  213  eval "$(ssh-agent -s)"
+  214  pbcopy < ~/.ssh/id_ed25519.pub
+  215  cat ~/.ssh/id_ed25519.pub
+  216  eval "$(ssh-agent -s)"
+  217  cat ~/.ssh/id_ed25519.pub
+  218  git clone git@github.com:CS131-BigDataProcessing/CS131_fa24_datafiles.git
+  219  ls
+  220  git clone git@github.com:CS131-BigDataProcessing/mini-assignments-dychang124.git
+  221  ssh-keygen -t ed25519 -C "dychang124@gmail.com"
+  222  eval "$(ssh-agent -s)"
+  223  open ~/.ssh/config
+  224  vi ~/.ssh/config
+  225  ssh-add ~/.ssh/id_ed25519
+  226  cat ~/.ssh/id_ed25519.pub
+  227  git clone git@github.com:CS131-BigDataProcessing/a1-collab-dychang124.git
+  228  cd Chang*
+  229  ls
+  230  cd ChangD_A4
+  231  ls
+  232  sh echoing.sh
+  233  sh money.sh
+  234  touch math.sh
+  235  vi math.sh
+  236  sh math.sh
+  237  vi math.sh
+  238  sh math.sh
+  239  vi math.sh
+  240  sh math.sh
+  241  vi math.sh
+  242  sh math.sh
+  243  ls
+  244  vi money.sh
+  245  vi echoing.sh
+  246  vi math.sh
+  247  sh math.sh
+  248  vi math.sh
+  249  sh math.sh
+  250  vi math.sh
+  251  sh math.sh
+  252  vi math.sh
+  253  sh math.sh
+  254  vi math.sh
+  255  sh math.sh
+  256  vi math.sh
+  257  sh math.sh
+  258  vi math.sh
+  259  sh math.sh
+  260  vi math.sh
+  261  sh math.sh
+  262  man bc
+  263  touch moremath.sh
+  264  vi more*
+  265  sh moremath.sh
+  266  vi more*
+  267  sh moremath.sh
+  268  vi more*
+  269  sh moremath.sh
+  270  ls
+  271  git clone git@github.com:CS131-BigDataProcessing/mini-assignments-dychang124.git
+  272  chmod 600 ~/.ssh/config
+  273  git clone git@github.com:CS131-BigDataProcessing/mini-assignments-dychang124.git
+  274  ls
+  275  git clone git@github.com:CS131-BigDataProcessing/CS131_fa24_datafiles.git
+  276  ls
+  277  cd CS131*
+  278  ls
+  279  cd Lec07
+  280  ls
+  281  vi lec)*
+  282  vi lec*
+  283  sh lec07*
+  284  sh lec07* Daniel
+  285  sh lec07* dchangfa24
+  286  vi lec*
+  287  sh lec07* dchangfa24
+  288  cd
+  289  ls
+  290  cd mini*
+  291  ls
+  292  vi a2*
+  293  egrep "wor" goodluc*
+  294  egrep "wor" goodluck.txt
+  295  ls
+  296  cd
+  297  cd CS131
+  298  cd CS131*
+  299  ls
+  300  cd Lec02
+  301  ls
+  302  egrep "wor" goodluck.txt
+  303  grep -E '\bwor' goodluck.txt
+  304  grep -E "\bwor" goodluck.txt
+  305  grep -o "\bwor" goodluck.txt
+  306  grep -o "\bwor\w*" goodluck.txt
+  307  grep -o "\w*dred\w*" goodluck.txt
+  308  grep "Good luck, babe " goodluck.txt
+  309  wc grep "Good luck, babe " goodluck.txt
+  310  wc [grep "Good luck, babe "] goodluck.txt
+  311  wc (grep "Good luck, babe ") goodluck.txt
+  312  grep "Good luck, babe " goodluck.txt|wc
+  313  ls
+  314  grep "Good luck, babe " goodluck.txt|wc>ChangD_a2_counts.txt
+  315  ls
+  316  vi Chang*
+  317  history>ChangD_a2_cmds.log
+  318  cd ..
+  319  ls
+  320  cd ..
+  321  ls
+  322  cd mini(
+  323  cd mini*
+  324  ls
+  325  mkdir ChangD_A2
+  326  ls
+  327  cd ..
+  328  ls
+  329  mv /CS131*/Lec02/ChangD_a2_counts*/ /mini*/ChangD_A2
+  330  mv /CS131_fa24_datafiles/Lec02/ChangD_a2_counts.txt/ /mini-assignments-dychang124/ChangD_A2
+  331  mv CS131_fa24_datafiles/Lec02/ChangD_a2_counts.txt/ /mini-assignments-dychang124/ChangD_A2
+  332  cd CS131
+  333  cd CS131*
+  334  ls
+  335  cd Lec02
+  336  ls
+  337  mv ChangD_a2_counts.txt /../../mini-assignements-dychang124/ChangD_A2
+  338  mv ChangD_a2_counts.txt /../mini-assignements-dychang124/ChangD_A2
+  339  mv ChangD_a2_counts.txt /../mini-assignments-dychang124/ChangD_A2
+  340  mv ChangD_a2_counts.txt /../../mini-assignments-dychang124/ChangD_A2
+  341  mv ChangD_a2_counts.txt /../
+  342  mv ChangD_a2_counts.txt /..
+  343  mv ChangD_a2_counts.txt ../
+  344  ls
+  345  cd ..
+  346  ls
+  347  mv ChangD_a2_counts.txt ../mini-assignments-dychang124/ChangD_A2
+  348  ls
+  349  cd ..
+  350  ls
+  351  cd mini*
+  352  ls
+  353  cd Chang*
+  354  ls
+  355  cd ..
+  356  ls
+  357  cd
+  358  ls
+  359  cd CS131*
+  360  cd Lec02
+  361  ls
+  362  mv ChangD_a2_cmds.log ../../mini-assignments-dychang124/ChangD_A2
+  363  cd
+  364  ls
+  365  cd mini*
+  366  ls
+  367  cd Chang*
+  368  ls
+  369  git push
+  370  cd ..
+  371  ls
+  372  git status
+  373  git add
+  374  git add ChangD_A2/ChangD_a2_cmds*
+  375  git add ChangD_A2/ChangD_a2_counts*
+  376  git status
+  377  git push
+  378  ls
+  379  git commit
+  380  git commit -m "dychang124"
+  381  git config --global user.email "daniel.y.chang@sjsu.edu"
+  382  git config --global user.name "Daniel Chang"
+  383  git commit
+  384  git push
+  385  ls
+  386  cd ChangD_A4
+  387  ls
+  388  cd ..
+  389  mv ChangD_A4 mini-assignments-dychang124
+  390  ls
+  391  cd mini*
+  392  ls
+  393  git status
+  394  git add
+  395  git add ChangD_A4
+  396  git status
+  397  git push
+  398  git commit
+  399  git push
+  400  mkdir ChangD_A5
+  401  cd ChangD_A5
+  402  touch age.sh
+  403  vi age.sh
+  404  sh age.sh 5
+  405  vi age.sh
+  406  sh age.sh 5
+  407  vi age.sh
+  408  sh age.sh 5
+  409  vi age.sh
+  410  sh age.sh 5
+  411  sh age.sh 17
+  412  sh age.sh 48
+  413  sh age.sh 72
+  414  touch temperature.sh
+  415  vi temp*
+  416  sh temperature.sh 62
+  417  vi temp*
+  418  sh temperature.sh 62
+  419  vi temp*
+  420  sh temperature.sh 62
+  421  sh temperature.sh 5
+  422  sh temperature.sh 97
+  423  sh temperature.sh 73
+  424  cd ..
+  425  mv ChangD_A5 mini*
+  426  cd mini*
+  427  git add
+  428  git add .
+  429  git status
+  430  git commit
+  431  git push
+  432  cd
+  433  exit
+  434  ls
+  435  awk -F : '/ya/ ( print $5 )' /etc/psswd/
+  436  awk -F : '/ya/ ( print $5 )' /etc/pwd/
+  437  awk -F : '/ya/ (print $5)' /etc/pwd/
+  438  ls
+  439  cd CS131*
+  440  ls
+  441  git pull
+  442  cd Lec07
+  443  ls
+  444  vi lec*
+  445  cd
+  446  git clone git@github.com:CS131-BigDataProcessing/CS131_fa24_datafiles.git
+  447  cd CS131*
+  448  git fetch --all
+  449  git branch backup-main
+  450  git reset --hard origin/main
+  451  ls
+  452  cd Lec08
+  453  ls
+  454  vi air*
+  455  awk -F '(print $4)' airline_stats.csv
+  456  awk -F, '(print $4)' airline_stats.csv
+  457  awk -F '{print $4}' airline_stats.csv
+  458  awk -F, '{print $4}' airline_stats.csv
+  459  vi airline_inquiry.txt
+  460  awk -F, '!seen[$4]++ {print $4}' airline_stats.csv
+  461  awk -F, '!seen[$4]++ {print $4}' airline_stats.csv > airline_inquiry.txt
+  462  vi airline_inquiry.txt
+  463  awk -F, '$1 > 10 {print $4}' airline_stats.csv
+  464  vi airline_inquiry.txt
+  465  awk -F, '$1 > 10 !seen[$4]++ {print $4}' airline_stats.csv
+  466  awk -F, '!seen[$4]++ $1 > 10 {print $4}' airline_stats.csv
+  467  awk -F, '!seen[$4]++ $1 > 10 {print $4}' airline_stats.csv >> airline_inquiry.txt
+  468  ls
+  469  vi air*
+  470  awk -F, '!seen[$4]++ $1 > 10 {print $4}' airline_stats.csv | sort
+  471  vi air*
+  472  ls
+  473  vi air*
+  474  vi airline_inquiry.txt
+  475  threshold=15
+  476  awk -v thresh="$threshold" '!seen[$4]++ { if ($1 > thresh) print $4 }' airline_stats.csv
+  477  awk -v thresh="$threshold" '{ if ($1 > thresh) print $4 }' airline_stats.csv
+  478  echo "$threshold"
+  479  awk -F -v thresh="$threshold" '{ if ($1 > thresh) print $4 }' airline_stats.csv
+  480  awk -v -F thresh="$threshold" '{ if ($1 > thresh) print $4 }' airline_stats.csv
+  481  awk -F, -v thresh="$threshold" '{ if ($1 > thresh) print $4 }' airline_stats.csv
+  482  awk -F, -v thresh="$threshold" '!seen[$4]++ { if ($1 > thresh) print $4 }' airline_stats.csv
+  483  awk -F, -v thresh="$threshold" '!seen[$4]++ && $1 > thresh {print $4}' airline_stats.csv
+  484  awk -F, -v thresh="$threshold" '{ if ($1 > thresh) print $4 }' airline_stats.csv
+  485  awk -F, -v thresh="$threshold" '!seen[$4]++ && $1 > thresh {print $4}' airline_stats.csv
+  486  awk -F, -v thresh="$threshold" '$1 > thresh && $4 != "" { if (!seen[$4]++) print $4 }' airline_stats.csv
+  487  vi airline_inquiry.txt
+  488  awk -F, '!seen[$4]++ $1 > 15 {print $4}' airline_stats.csv
+  489  awk -F, '!seen[$4]++ $1 > 10 {print $4}' airline_stats.csv
+  490  awk -F, '$1 > 10 {print $4}' airline_stats.csv | sort | uniq
+  491  echo $threshold
+  492  awk -F, -v thresh="$threshold" '$1 > thresh && $4 != "" { if (!seen[$4]++) print $4 }' airline_stats.csv
+  493  awk -F, -v thresh="$threshold" '{print $1, $4}' airline_stats.csv
+  494  awk -F, -v thresh="$threshold" '$1 != "" && $1 != "NA" && $1+0 > thresh && $4 != "" { if (!seen[$4]++) print $4 }' airline_stats.csv
+  495  awk -F, -v thresh="$threshold" '{ if ($1 == "" || $1 == "NA") print "Skipped:", $0; else if ($1+0 > thresh && $4 != "") print $4 }' airline_stats.csv
+  496  awk -F, -v thresh="$threshold" '$1 > 15 && $4 != "" { if (!seen[$4]++) print $4 }' airline_stats.csv
+  497  awk -F, -v thresh="$threshold" '{
+    gsub(/^[ \t]+|[ \t]+$/, "", $1);
+    gsub(/^[ \t]+|[ \t]+$/, "", $4);
+    if ($1 + 0 > thresh && $4 != "") {
+        if (!seen[$4]++) print $4;
+    }
+}' airline_stats.csv
+  498  awk -F, -v thresh="$threshold" '$1 != "" && $1 != "NA" && $1+0 > thresh && $4 != "" { if (!seen[$4]++) print $4 }' airline_stats.csv
+  499  vi airline_inquiry.txt
+  500  awk -F, '!seen[$4]++ $1 > 15 {print $4}' airline_stats.csv
+  501  awk -F, '$1 > 15 {print $4}' airline_stats.csv | uniq
+  502  awk -F, '$1 > 15 {print $4}' airline_stats.csv | sort |uniq
+  503  awk -F, '$1 > 15 {print $4}' airline_stats.csv | sort
+  504  awk -F, '$1 > 10 {print $4}' airline_stats.csv | sort |uniq
+  505  vi airline_in*
+  506  awk -F, -v thresh="$threshold" '{ if ($1 > thresh) print $4 }' airline_stats.csv
+  507  awk -F, -v thresh="$threshold" '{ if ($1 > thresh) print $4 }' airline_stats.csv | uniq
+  508  awk -F, -v thresh="$threshold" '{ if ($1 > thresh) print $4 }' airline_stats.csv | sort | uniq
+  509  vi airline_in*
+  510  history > a6_cmds.log
