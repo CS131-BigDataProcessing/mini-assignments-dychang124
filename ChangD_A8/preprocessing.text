@@ -1,0 +1,1 @@
+I chose to replace missing values with NA instead of removing the rows, because I saw that there were many rows with missing values. If I were to remove all of them, then it would take away a lot of the data in the dataset. Also, for outliers, I chose to do it as 1.5 iqr, and only did it for the upper bound to remove houses that were much more expensive than the other houses.
