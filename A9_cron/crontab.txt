@@ -1,0 +1,4 @@
+0 2 * * * rm /mnt/scratch/FA24_CS131_Jessica/dchangfa24/temp/*
+* * * * * tar -czvf /mnt/scratch/FA24_CS131_Jessica/dchangfa24/backups/backup.tar.gz /mnt/scratch/FA24_CS131_Jessica/dchangfa24
+#echo "hello" > /dev/pts/53 | at now + 1 minute
+30 8 * * * df -h | mail -s "Daily Disk Usage Report" daniel.y.chang@sjsu.edu

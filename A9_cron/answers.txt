@@ -1,0 +1,2 @@
+a. If you would like to regularly do security scans, or clean up data.
+b. Risks include deleting files that were not meant to be deleted, or downloading backups too frequently, taking up too much space. To avoid, testing to make sure the automation works as expected before letting it work on its own.
